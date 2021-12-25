@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DraSelXL
 - 👀 I’m interested in Software Development, Web development, Technology, and Artificial Intelligence
-- 🌱 I’m currently learning C#, PHP, and MYSQL
+- 🌱 I’m currently learning Git, Javascript, Design Pattern, Express, WebSocket, MongoDB
 
 <!---
 DraSelXL/DraSelXL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
