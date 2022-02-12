@@ -18,6 +18,7 @@ I'm currently a student learning about information systems and software developm
 + 💽 Technology;
 + 👩‍💻 Artificial Intelligence.
 
+<!---
 ---
 
 ### Skills:
@@ -26,7 +27,6 @@ I'm currently a student learning about information systems and software developm
 | Beginner level **C**, and **C++** | Beginner level **Node.js**, and **PHP** |
 | Intermediete level **Java** , and **C#** | Intermediete level **HTML**, **CSS**, and **Javascript**  |
 
-<!---
 DraSelXL/DraSelXL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
