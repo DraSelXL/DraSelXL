@@ -18,6 +18,14 @@ I'm currently a student learning about information systems and software developm
 + 💽 Technology;
 + 👩‍💻 Artificial Intelligence.
 
+### Skills:
++ C++ ⭐ (Beginner)
++ Java ⭐ (Beginner)
++ C# ⭐ (Beginner)
++ Kotlin ⭐ (Beginner)
++ Javascript ⭐ (Beginner)
++ PHP ⭐ (Beginner)
+
 <!---
 ---
 
